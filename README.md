@@ -5,8 +5,7 @@
 Explore a beleza mística da Irlanda com esta página de viagem feita com HTML e CSS!  
 Explore the mystical beauty of Ireland with this travel page built with HTML and CSS!
 
-🔗 [Veja o projeto rodando aqui • Live Demo](https://seu-usuario.github.io/nome-do-repositorio/)  
-_(Substitua pelo link do GitHub Pages depois do deploy / Replace with your GitHub Pages link)_
+🔗 [Veja o projeto rodando aqui • Live Demo](https://francinemette.github.io/travel-page/)  
 
 ---
 
