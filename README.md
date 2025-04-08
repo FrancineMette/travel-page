@@ -12,7 +12,7 @@ _(Substitua pelo link do GitHub Pages depois do deploy / Replace with your GitHu
 
 ## 📸 Preview
 
-![Preview](assets/travel-page.png)  
+![Preview](assets/travel-page.jpg)
 
 ---
 
